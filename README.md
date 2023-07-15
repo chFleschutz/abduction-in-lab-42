@@ -1,5 +1,5 @@
 # Abduction in Lab 42
-#### GameEngineering Semester 6 Projektarbeit im SoSe2023
+#### Project work in the 6th semester of game engineering (2023)
 ![Big Poster of the three Levels of the VR Game Abduction in Lab42. In the Center is a Cute Roboter wich will be your companion in the Game.](./Presskit/Abduction%20in%20Lab%2042%20Poster.png)
 
 # Getting Started
