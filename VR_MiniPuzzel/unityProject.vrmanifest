@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_minipuzzel.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Workspace\\Unity Projects\\2023-ba-projekt-bichlmeier\\VR_MiniPuzzel\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_MiniPuzzel [Testing]"
+        }
+      }
+    }
+  ]
+}
