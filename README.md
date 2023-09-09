@@ -1,20 +1,40 @@
 # Abduction in Lab 42
-#### Project work in the 6th semester of game engineering (2023)
-![Big Poster of the three Levels of the VR Game Abduction in Lab42. In the Center is a Cute Roboter wich will be your companion in the Game.](./Presskit/Abduction%20in%20Lab%2042%20Poster.png)
+
+<p align="middle">
+<img src="./Presskit/Abduction%20in%20Lab%2042%20Poster.png" width="700">
+</p>
+
+# Overview 
+
+Welcome to 'Abduction in Lab 42' an exciting virtual reality (VR) puzzle game created by a team of talented individuals. Dive into the mysterious Lab 42, where you'll encounter three challenging levels, collect valuable gems, manipulate laser beams, and protect your trusty robot companion. Get ready for a thrilling adventure in the world of VR gaming.
+
+This engaging VR game emerged from our collaborative efforts during the sixth semester of our game engineering program, showcasing the results of our dedicated team project work.
 
 # Getting Started
-Open the VR_MiniPuzzel folder with Unity 2021.3.22f1
+
+1. Clone the repository
+   
+2. Open the `VR_MiniPuzzel` folder with Unity 2021.3.22f1
+
+3. Start exploring the mysterious Lab 42
 
 # The Team
-- Developer
+
+- **Developer**
     - Luca Buchner
     - Christoph Fleschutz
     - Bruno Nölte
     - Philipp Sturm
-- Sound Designer
+      
+- **Sound Designer**
     - Raphael Haist
-- Supervisor
+      
+- **Supervisor**
     - Prof. Dr. Christoph Bichlmeier
 
+# Images
 
+<img src="Presskit/Screenshots/Abduction%20in%20Lab%2042%20Level0.png" />
+<img src="Presskit/Screenshots/Abduction%20in%20Lab%2042%20Level1.jpeg" /> 
+<img src="Presskit/Screenshots/Abduction%20in%20Lab%2042%20Level2.png" />
 
